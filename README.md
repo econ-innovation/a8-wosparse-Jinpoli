@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Mk0pzviB)
 # Assignment8_wosparse
 
 assignment_wosparse 路径中的文件qje2014_2023.txt包含了过去十年间发表在QJE杂志上的所有论文，请使用python编程将该数据拆分成若个关联表格。
